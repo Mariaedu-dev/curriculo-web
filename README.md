@@ -47,9 +47,9 @@ Você pode visualizar o currículo abrindo o arquivo `index.html` no navegador.
 
 ## 📬 Contato
 
-E-mail: vilarim051@gmail.com
-GitHub: 
-Linkedin: 
+- 📧 Email: vilarim051@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/maduvilarim-88580435a
+- 💻 GitHub: 
 
 ---
 
